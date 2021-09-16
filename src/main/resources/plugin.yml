@@ -1,0 +1,6 @@
+name: XDevApi
+version: '${project.version}'
+main: de.ruben.xdevapi.XDevApi
+api-version: 1.16
+depend: [ProtocolLib, HolographicDisplays]
+authors: [ Ruben ]
